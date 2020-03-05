@@ -1,2 +1,2 @@
 # ECGR-2254-Project-2
-Analytical Foundations of Computer and Electrical Engineering Project 1
+This is the first project for the second project of the ECGR 2254 class with Dr. Cox from the Fall 2019 semester at UNC Charlotte.
